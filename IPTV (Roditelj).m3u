@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.serbianforum.org/losmij/epg.xml.gz"
+#EXTM3U x-tvg-url="https://github.com/DJAndyBoy/IPTV-Uco-/raw/refs/heads/main/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/hrt1.png"  group-title="HRVATSKA",HRT 1
 http://balkan-live.net/andyboydj/pLbouEnHp/73836
 
@@ -1626,4 +1626,5 @@ http://balkan-live.net/live/andyboydj/pLbouEnHp/225449.ts
 http://balkan-live.net/live/andyboydj/pLbouEnHp/225450.ts
 
 #EXTINF:-1 tvg-logo="https://www.cromax.com/etc/designs/cromax/clientlibs/images/logo.png"  group-title="FILMOVI",CROMAX SELECT 9 HD
+
 http://balkan-live.net/live/andyboydj/pLbouEnHp/225451.ts
