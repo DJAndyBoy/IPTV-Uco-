@@ -1,0 +1,6310 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tv generator-info-name="XMLTV EPG" created-by="losmij" hosted-on="https://epg.serbianforum.org/" eon_rs-last-updated="10-12-2024 06:07:20" maxtv_hr-last-updated="10-12-2024 05:56:56" mtel_ba-last-updated="10-12-2024 06:07:37" supernova_rs-last-updated="10-12-2024 06:06:49">
+
+<channel id="Pink Show (SR)">
+<display-name lang="en">Pink Show (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Brainz HD (SR)">
+<display-name lang="en">Brainz HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="RTS 2 HD">
+<display-name lang="en">RTS 2 HD</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="RTS 1 HD">
+<display-name lang="en">RTS 1 HD</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="MTV (SR)">
+<display-name lang="en">MTV (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pannon RTV">
+<display-name lang="en">Pannon RTV</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Music (SR)">
+<display-name lang="en">Pink Music (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="MTV Hits (SR)">
+<display-name lang="en">MTV Hits (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="MTV 90s (MTV Rocks) (SR)">
+<display-name lang="en">MTV 90s (MTV Rocks) (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Trace Urban HD (SR)">
+<display-name lang="en">Trace Urban HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="MTV 00s (VH1 Europe) (SR)">
+<display-name lang="en">MTV 00s (VH1 Europe) (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="MTV 80s (VH1 Classic) (SR)">
+<display-name lang="en">MTV 80s (VH1 Classic) (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Club MTV (SR)">
+<display-name lang="en">Club MTV (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="KCN1">
+<display-name lang="en">KCN1</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Palma plus (SR)">
+<display-name lang="en">Palma plus (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink World Cinema">
+<display-name lang="en">Pink World Cinema</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink super kids">
+<display-name lang="en">Pink super kids</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Studio B">
+<display-name lang="en">Studio B</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Music 2 (SR)">
+<display-name lang="en">Pink Music 2 (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Serije (SR)">
+<display-name lang="en">Pink Serije (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Pedia">
+<display-name lang="en">Pink Pedia</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Kanal 9">
+<display-name lang="en">Kanal 9</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Kuvar">
+<display-name lang="en">Pink Kuvar</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Koncert (SR)">
+<display-name lang="en">Pink Koncert (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="RTL  World">
+<display-name lang="en">RTL  World</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Sremska TV">
+<display-name lang="en">Sremska TV</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Jim Jam (SR)">
+<display-name lang="en">Jim Jam (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV  AS">
+<display-name lang="en">TV  AS</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV  AS">
+<display-name lang="en">TV  AS</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Sky News (SR)">
+<display-name lang="en">Sky News (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Cinemania HD">
+<display-name lang="en">Cinemania HD</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Televizija K23">
+<display-name lang="en">Televizija K23</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Connect TV (SR)">
+<display-name lang="en">Connect TV (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Super Sat (SR)">
+<display-name lang="en">TV Super Sat (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Mediaset Italia (SR)">
+<display-name lang="en">Mediaset Italia (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="NOVA S HD (RS)">
+<display-name lang="en">NOVA S HD (RS)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV e (CG)/(SR)">
+<display-name lang="en">TV e (CG)/(SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV 5 Užice">
+<display-name lang="en">TV 5 Užice</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Kragujevac">
+<display-name lang="en">TV Kragujevac</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Romania International">
+<display-name lang="en">Romania International</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Romania International">
+<display-name lang="en">Romania International</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Kruševac">
+<display-name lang="en">TV Kruševac</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Trstenik">
+<display-name lang="en">TV Trstenik</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Santos">
+<display-name lang="en">TV Santos</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="E! Entertainment (SR)">
+<display-name lang="en">E! Entertainment (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Da Vinci HD (SR)">
+<display-name lang="en">Da Vinci HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Trace Sport Stars HD (SR)">
+<display-name lang="en">Trace Sport Stars HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Grand narodna televizija 2 (SR)">
+<display-name lang="en">Grand narodna televizija 2 (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Extra (SR)">
+<display-name lang="en">Pink Extra (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Hits (SR)">
+<display-name lang="en">Pink Hits (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Bravo Music (SR)">
+<display-name lang="en">Bravo Music (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="STAR Movies HD (INT)">
+<display-name lang="en">STAR Movies HD (INT)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="STAR Crime HD (INT)">
+<display-name lang="en">STAR Crime HD (INT)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="STAR Life HD (INT)">
+<display-name lang="en">STAR Life HD (INT)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="STAR HD (INT)">
+<display-name lang="en">STAR HD (INT)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="CineStar TV Premiere 1 HD (SR)">
+<display-name lang="en">CineStar TV Premiere 1 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="CineStar TV Action HD (SR)">
+<display-name lang="en">CineStar TV Action HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Nick Music (RS)">
+<display-name lang="en">Nick Music (RS)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="CineStar TV Premiere 2 HD (SR)">
+<display-name lang="en">CineStar TV Premiere 2 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="RedLight (SR)">
+<display-name lang="en">RedLight (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Folk 2 (SR)">
+<display-name lang="en">Pink Folk 2 (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Nova Series">
+<display-name lang="en">Nova Series</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Grand Nostalgija (SR)">
+<display-name lang="en">Grand Nostalgija (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pickbox HD (SR)">
+<display-name lang="en">Pickbox HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Nova Max ">
+<display-name lang="en">Nova Max </display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="N1 HD (BH)/(SR)">
+<display-name lang="en">N1 HD (BH)/(SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Eurosport 4K IPTV">
+<display-name lang="en">Eurosport 4K IPTV</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Bloomberg (SR)">
+<display-name lang="en">Bloomberg (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="M4 Sport HD (SR)">
+<display-name lang="en">M4 Sport HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Lol">
+<display-name lang="en">Lol</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Prva Kick (SR)">
+<display-name lang="en">Prva Kick (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Mezzo Live (SR)">
+<display-name lang="en">Mezzo Live (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Hits 2 (SR)">
+<display-name lang="en">Pink Hits 2 (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="IDJKids HD (SR)">
+<display-name lang="en">IDJKids HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="VA Plus (TV Valjevo Plus)">
+<display-name lang="en">VA Plus (TV Valjevo Plus)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="CMC HD (HR)">
+<display-name lang="en">CMC HD (HR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="History 2 HD">
+<display-name lang="en">History 2 HD</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="FilmBox Premium HD (SR)">
+<display-name lang="en">FilmBox Premium HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="FilmBox Extra HD (SR)">
+<display-name lang="en">FilmBox Extra HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Nat Geo Wild HD (SR)">
+<display-name lang="en">Nat Geo Wild HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="BBC Earth HD (SR)">
+<display-name lang="en">BBC Earth HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Motorvision+ HD (SR)">
+<display-name lang="en">Motorvision+ HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="M5 (SR)">
+<display-name lang="en">M5 (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Extreme Sports (SR)">
+<display-name lang="en">Extreme Sports (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Fashion (SR)">
+<display-name lang="en">Pink Fashion (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Minimax (SR)">
+<display-name lang="en">Minimax (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Eurosport 1 HD (SR)">
+<display-name lang="en">Eurosport 1 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Eurosport 2 HD (SR)">
+<display-name lang="en">Eurosport 2 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="ID Xtra">
+<display-name lang="en">ID Xtra</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Private TV (SR)">
+<display-name lang="en">Private TV (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Leskovac">
+<display-name lang="en">TV Leskovac</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Prva plus (SR)">
+<display-name lang="en">Prva plus (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Brazzers TV Europe (SR)">
+<display-name lang="en">Brazzers TV Europe (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Reality Kings HD (SR)">
+<display-name lang="en">Reality Kings HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Reality (SR)">
+<display-name lang="en">Pink Reality (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="ICT Business (SR)">
+<display-name lang="en">ICT Business (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Zabava (SR)">
+<display-name lang="en">Pink Zabava (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink World (SR)">
+<display-name lang="en">Pink World (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Blue Hustler (SR)">
+<display-name lang="en">Blue Hustler (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Folk">
+<display-name lang="en">Pink Folk</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Style">
+<display-name lang="en">Pink Style</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Thriller">
+<display-name lang="en">Pink Thriller</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="N1 HD (HR)/(SR)">
+<display-name lang="en">N1 HD (HR)/(SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Moja TV">
+<display-name lang="en">Moja TV</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV K-1">
+<display-name lang="en">TV K-1</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="CineStar TV Comedy &amp; Family HD">
+<display-name lang="en">CineStar TV Comedy &amp; Family HD</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Western">
+<display-name lang="en">Pink Western</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="1+1 International (SR)">
+<display-name lang="en">1+1 International (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="FREEДOM (SR)">
+<display-name lang="en">FREEДOM (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Zona Plus">
+<display-name lang="en">TV Zona Plus</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Narodna TV (SR)">
+<display-name lang="en">Narodna TV (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="K::CN Svet +3 (W2)">
+<display-name lang="en">K::CN Svet +3 (W2)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Plus (SR)">
+<display-name lang="en">Pink Plus (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Dusk! (SR)">
+<display-name lang="en">Dusk! (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink n roll (SR)">
+<display-name lang="en">Pink n roll (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Lov i Ribolov (SR)">
+<display-name lang="en">Lov i Ribolov (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="National Geographic HD (SR)">
+<display-name lang="en">National Geographic HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Vrnjacka Banja (RS)">
+<display-name lang="en">TV Vrnjacka Banja (RS)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TVMNE (RTCG Sat (SR))">
+<display-name lang="en">TVMNE (RTCG Sat (SR))</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="O Kanal (SR)">
+<display-name lang="en">O Kanal (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Nova BH HD (SR)">
+<display-name lang="en">Nova BH HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Hustler HD (SR)">
+<display-name lang="en">Hustler HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Horror">
+<display-name lang="en">Pink Horror</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Rai Uno (SR)">
+<display-name lang="en">Rai Uno (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Info 24">
+<display-name lang="en">TV Info 24</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Vijesti HD (SR)">
+<display-name lang="en">TV Vijesti HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Russian Kino">
+<display-name lang="en">Russian Kino</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="SCI FI HD (SR)">
+<display-name lang="en">SCI FI HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="HBO HD (SR)">
+<display-name lang="en">HBO HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="HBO 2 HD (SR)">
+<display-name lang="en">HBO 2 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="HBO 3 HD (SR)">
+<display-name lang="en">HBO 3 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="SHORTSTV HD (SR)">
+<display-name lang="en">SHORTSTV HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Sport Klub 1">
+<display-name lang="en">Sport Klub 1</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Sport Klub 2">
+<display-name lang="en">Sport Klub 2</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Sport Klub 3">
+<display-name lang="en">Sport Klub 3</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="SK 4 HD (SR)">
+<display-name lang="en">SK 4 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Action">
+<display-name lang="en">Pink Action</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Film (SR)">
+<display-name lang="en">Pink Film (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Movies">
+<display-name lang="en">Pink Movies</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="SOS Kanal Plus">
+<display-name lang="en">SOS Kanal Plus</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Belle Amie">
+<display-name lang="en">TV Belle Amie</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="RTV Novi Pazar">
+<display-name lang="en">RTV Novi Pazar</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="M1 (SR)">
+<display-name lang="en">M1 (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Hustler (SR)">
+<display-name lang="en">Hustler (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Duna World HD (SR)">
+<display-name lang="en">Duna World HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Al Jazeera Balkans HD (SR)">
+<display-name lang="en">Al Jazeera Balkans HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="SBB Info kanal">
+<display-name lang="en">SBB Info kanal</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV5 Monde (SR)">
+<display-name lang="en">TV5 Monde (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Yachting TV (SR)">
+<display-name lang="en">Yachting TV (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Viasat History HD (SR)">
+<display-name lang="en">Viasat History HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Viasat Explore HD (SR)">
+<display-name lang="en">Viasat Explore HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Zadruga Live 1 (SR)">
+<display-name lang="en">Zadruga Live 1 (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Viasat Nature HD (SR)">
+<display-name lang="en">Viasat Nature HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Zadruga Live 3 (SR)">
+<display-name lang="en">Zadruga Live 3 (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Zadruga Live 2 (SR)">
+<display-name lang="en">Zadruga Live 2 (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Prva HD (SR)">
+<display-name lang="en">Prva HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Zadruga Live 4 (SR)">
+<display-name lang="en">Zadruga Live 4 (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="B92 (RS)">
+<display-name lang="en">B92 (RS)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Ha ha">
+<display-name lang="en">Ha ha</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Crime &amp; Mystery">
+<display-name lang="en">Pink Crime &amp; Mystery</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Comedy">
+<display-name lang="en">Pink Comedy</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="City Play (SR)">
+<display-name lang="en">City Play (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="SK Fight HD (SR)">
+<display-name lang="en">SK Fight HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Prva World (SR)">
+<display-name lang="en">Prva World (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Nova M HD (SR)">
+<display-name lang="en">Nova M HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Epic Drama HD (SR)">
+<display-name lang="en">Epic Drama HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Romance">
+<display-name lang="en">Pink Romance</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="France 24 HD">
+<display-name lang="en">France 24 HD</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="History HD (SR)">
+<display-name lang="en">History HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Premium HD">
+<display-name lang="en">Pink Premium HD</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Televizija V5">
+<display-name lang="en">Televizija V5</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Sat TV">
+<display-name lang="en">Sat TV</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Cartoon Network">
+<display-name lang="en">Cartoon Network</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Disney Channel">
+<display-name lang="en">Disney Channel</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Cartoonito /Boomerang (SR)">
+<display-name lang="en">Cartoonito /Boomerang (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Kids">
+<display-name lang="en">Pink Kids</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Nick Jr. (SR)">
+<display-name lang="en">Nick Jr. (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="KTV Zrenjanin">
+<display-name lang="en">KTV Zrenjanin</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="BabyTV">
+<display-name lang="en">BabyTV</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="IDJTV">
+<display-name lang="en">IDJTV</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="RTS 3 HD">
+<display-name lang="en">RTS 3 HD</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="RTV 2 (SR)">
+<display-name lang="en">RTV 2 (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="RTV 1 (SR)">
+<display-name lang="en">RTV 1 (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Animal Planet HD (SR)">
+<display-name lang="en">Animal Planet HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="RED TV (Pink 2 HD)">
+<display-name lang="en">RED TV (Pink 2 HD)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Vesti HD (Pink 3 info)">
+<display-name lang="en">Vesti HD (Pink 3 info)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="SK HD">
+<display-name lang="en">SK HD</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="CGTN">
+<display-name lang="en">CGTN</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Nickelodeon">
+<display-name lang="en">Nickelodeon</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink HD">
+<display-name lang="en">Pink HD</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Crime &amp; Investigation (SR)">
+<display-name lang="en">Crime &amp; Investigation (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="RTV Pančevo">
+<display-name lang="en">RTV Pančevo</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Fast&amp;Fun Box HD (SR)">
+<display-name lang="en">Fast&amp;Fun Box HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Jefimija">
+<display-name lang="en">TV Jefimija</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Televizija Plus">
+<display-name lang="en">Televizija Plus</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="M2 (SR)">
+<display-name lang="en">M2 (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Current Time (srb)">
+<display-name lang="en">Current Time (srb)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Nova Sport HD (SR)">
+<display-name lang="en">Nova Sport HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Disney Junior (SR)">
+<display-name lang="en">Disney Junior (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="RTL (DE) /(SR)">
+<display-name lang="en">RTL (DE) /(SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="HRT 1 HD (SR)">
+<display-name lang="en">HRT 1 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="HRT 2 HD (SR)">
+<display-name lang="en">HRT 2 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Deutsche Welle (SR)">
+<display-name lang="en">Deutsche Welle (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Nova HR HD">
+<display-name lang="en">Nova HR HD</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="RTL HR HD">
+<display-name lang="en">RTL HR HD</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Novosadska TV">
+<display-name lang="en">Novosadska TV</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Most">
+<display-name lang="en">TV Most</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Shoppster TV (SR)">
+<display-name lang="en">Shoppster TV (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Sci-Fi/Fantasy">
+<display-name lang="en">Pink Sci-Fi/Fantasy</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="CineStar TV 1 HD (SR)">
+<display-name lang="en">CineStar TV 1 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="CineStar TV Fantasy HD (SR)">
+<display-name lang="en">CineStar TV Fantasy HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Nicktoons (SR)">
+<display-name lang="en">Nicktoons (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Family">
+<display-name lang="en">Pink Family</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV1000">
+<display-name lang="en">TV1000</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="AMC HD (INT)">
+<display-name lang="en">AMC HD (INT)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Diva">
+<display-name lang="en">Diva</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="24Kitchen HD (SR)">
+<display-name lang="en">24Kitchen HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="N1 HD (SR)">
+<display-name lang="en">N1 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="B1 HD (SR)">
+<display-name lang="en">B1 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Insajder TV (SR)">
+<display-name lang="en">Insajder TV (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Happy (RS)">
+<display-name lang="en">Happy (RS)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Nova Television HD (BG)">
+<display-name lang="en">Nova Television HD (BG)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="K::CN Music 2 (SR)">
+<display-name lang="en">K::CN Music 2 (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pikaboo HD (SR)">
+<display-name lang="en">Pikaboo HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Grand (SR)">
+<display-name lang="en">Grand (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TVE (SR)">
+<display-name lang="en">TVE (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Euronews HD (SR)">
+<display-name lang="en">Euronews HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Home and Garden TV">
+<display-name lang="en">Home and Garden TV</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="BBC News (SR)">
+<display-name lang="en">BBC News (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Discovery Channel HD (SR)">
+<display-name lang="en">Discovery Channel HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="iConcerts HD (SR)">
+<display-name lang="en">iConcerts HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="CNN (SR)">
+<display-name lang="en">CNN (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="CineStar TV 2 HD (SR)">
+<display-name lang="en">CineStar TV 2 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="MTV Live HD (SR)">
+<display-name lang="en">MTV Live HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Classic">
+<display-name lang="en">Pink Classic</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="CCTV 4">
+<display-name lang="en">CCTV 4</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="SK 10 HD (SR)">
+<display-name lang="en">SK 10 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="SK 9 HD (SR)">
+<display-name lang="en">SK 9 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="SK 8 HD (SR)">
+<display-name lang="en">SK 8 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="SK 7 HD (SR)">
+<display-name lang="en">SK 7 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="SK Golf HD (SR)">
+<display-name lang="en">SK Golf HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="SK 6 HD (SR)">
+<display-name lang="en">SK 6 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="SK 5 HD (SR)">
+<display-name lang="en">SK 5 HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Sandzak TV">
+<display-name lang="en">Sandzak TV</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Melos (RS)">
+<display-name lang="en">TV Melos (RS)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="FTV TV HD (SR)">
+<display-name lang="en">FTV TV HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="TLC HD (SR)">
+<display-name lang="en">TLC HD (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="SK 4K IPTV">
+<display-name lang="en">SK 4K IPTV</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Soap">
+<display-name lang="en">Pink Soap</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="SK Esports (SR)">
+<display-name lang="en">SK Esports (SR)</display-name>
+<EPG-Provider>eon_rs</EPG-Provider>
+</channel>
+
+<channel id="MAXtv Promo_max">
+<display-name lang="en">MAXtv Promo_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="HRT 1_max">
+<display-name lang="en">HRT 1_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="HRT 2_max">
+<display-name lang="en">HRT 2_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="RTL_max">
+<display-name lang="en">RTL_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Nova TV_max">
+<display-name lang="en">Nova TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Doma TV_max">
+<display-name lang="en">Doma TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="HRT 3_max">
+<display-name lang="en">HRT 3_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="HRT 4_max">
+<display-name lang="en">HRT 4_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Pickbox TV _max">
+<display-name lang="en">Pickbox TV _max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="N1_max">
+<display-name lang="en">N1_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="MAXSport 1_max">
+<display-name lang="en">MAXSport 1_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="RTL Crime_max">
+<display-name lang="en">RTL Crime_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Sportska televizija_max">
+<display-name lang="en">Sportska televizija_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="HRT 1 HD_max">
+<display-name lang="en">HRT 1 HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="HRT 2 HD_max">
+<display-name lang="en">HRT 2 HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="RTL HD_max">
+<display-name lang="en">RTL HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="RTL 2 HD_max">
+<display-name lang="en">RTL 2 HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="HRT 3 HD_max">
+<display-name lang="en">HRT 3 HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="HRT 4 HD_max">
+<display-name lang="en">HRT 4 HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="RTL Living HD_max">
+<display-name lang="en">RTL Living HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="RTL Kockica HD_max">
+<display-name lang="en">RTL Kockica HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="RTL Adria HD_max">
+<display-name lang="en">RTL Adria HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 1 HD_max">
+<display-name lang="en">Arenasport 1 HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 2 HD_max">
+<display-name lang="en">Arenasport 2 HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 3 HD_max">
+<display-name lang="en">Arenasport 3 HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 4 HD_max">
+<display-name lang="en">Arenasport 4 HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 5 HD_max">
+<display-name lang="en">Arenasport 5 HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 6 HD_max">
+<display-name lang="en">Arenasport 6 HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="RTL Crime HD_max">
+<display-name lang="en">RTL Crime HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="RTL Passion HD_max">
+<display-name lang="en">RTL Passion HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 7 HD_max">
+<display-name lang="en">Arenasport 7 HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 8 HD_max">
+<display-name lang="en">Arenasport 8 HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 9 HD_max">
+<display-name lang="en">Arenasport 9 HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 10 HD_max">
+<display-name lang="en">Arenasport 10 HD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="National Geographic_max">
+<display-name lang="en">National Geographic_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Nat Geo Wild_max">
+<display-name lang="en">Nat Geo Wild_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Doku TV_max">
+<display-name lang="en">Doku TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="History_max">
+<display-name lang="en">History_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Crime &amp; Investigation _max">
+<display-name lang="en">Crime &amp; Investigation _max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Viasat History_max">
+<display-name lang="en">Viasat History_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Viasat Explore_max">
+<display-name lang="en">Viasat Explore_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Viasat Nature_max">
+<display-name lang="en">Viasat Nature_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="History 2_max">
+<display-name lang="en">History 2_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="BBC Earth_max">
+<display-name lang="en">BBC Earth_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="CGTN Documentary_max">
+<display-name lang="en">CGTN Documentary_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Disney Channel_max">
+<display-name lang="en">Disney Channel_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Baby TV_max">
+<display-name lang="en">Baby TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Da Vinci_max">
+<display-name lang="en">Da Vinci_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Disney Junior_max">
+<display-name lang="en">Disney Junior_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Cartoonito_max">
+<display-name lang="en">Cartoonito_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Cartoon Network_max">
+<display-name lang="en">Cartoon Network_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Nickelodeon hrvatski_max">
+<display-name lang="en">Nickelodeon hrvatski_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Mini TV_max">
+<display-name lang="en">Mini TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Nick Jr. hrvatski_max">
+<display-name lang="en">Nick Jr. hrvatski_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="NickToons_max">
+<display-name lang="en">NickToons_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="CineStar TV 1_max">
+<display-name lang="en">CineStar TV 1_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="STAR Life_max">
+<display-name lang="en">STAR Life_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="STAR Crime_max">
+<display-name lang="en">STAR Crime_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="STAR Movies_max">
+<display-name lang="en">STAR Movies_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="STAR_max">
+<display-name lang="en">STAR_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="HBO_max">
+<display-name lang="en">HBO_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="HBO 2_max">
+<display-name lang="en">HBO 2_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="HBO 3_max">
+<display-name lang="en">HBO 3_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Cinemax _max">
+<display-name lang="en">Cinemax _max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Cinemax 2_max">
+<display-name lang="en">Cinemax 2_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Kino TV_max">
+<display-name lang="en">Kino TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="TV 1000_max">
+<display-name lang="en">TV 1000_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Epic Drama_max">
+<display-name lang="en">Epic Drama_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Klasik TV_max">
+<display-name lang="en">Klasik TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="CineStar TV Action &amp; Thriller_max">
+<display-name lang="en">CineStar TV Action &amp; Thriller_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="RTL Passion_max">
+<display-name lang="en">RTL Passion_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="CineStar TV Premiere 1_max">
+<display-name lang="en">CineStar TV Premiere 1_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="CineStar TV Premiere 2_max">
+<display-name lang="en">CineStar TV Premiere 2_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="CineStar TV Fantasy_max">
+<display-name lang="en">CineStar TV Fantasy_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="CineStar TV Comedy &amp; Family _max">
+<display-name lang="en">CineStar TV Comedy &amp; Family _max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="CineStar TV 2_max">
+<display-name lang="en">CineStar TV 2_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="M1 Film_max">
+<display-name lang="en">M1 Film_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="M1 Gold_max">
+<display-name lang="en">M1 Gold_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 1_max">
+<display-name lang="en">Arenasport 1_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 2_max">
+<display-name lang="en">Arenasport 2_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 3_max">
+<display-name lang="en">Arenasport 3_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 4_max">
+<display-name lang="en">Arenasport 4_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 5_max">
+<display-name lang="en">Arenasport 5_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 6 _max">
+<display-name lang="en">Arenasport 6 _max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="MAXSport 2_max">
+<display-name lang="en">MAXSport 2_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arena Esport_max">
+<display-name lang="en">Arena Esport_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arena Fight _max">
+<display-name lang="en">Arena Fight _max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Sport 1_max">
+<display-name lang="en">Sport 1_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Extreme Sports_max">
+<display-name lang="en">Extreme Sports_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Nautical Channel_max">
+<display-name lang="en">Nautical Channel_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="GP1_max">
+<display-name lang="en">GP1_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 7_max">
+<display-name lang="en">Arenasport 7_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 8_max">
+<display-name lang="en">Arenasport 8_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 9_max">
+<display-name lang="en">Arenasport 9_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Arenasport 10_max">
+<display-name lang="en">Arenasport 10_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="24Kitchen_max">
+<display-name lang="en">24Kitchen_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="E! Entertainment_max">
+<display-name lang="en">E! Entertainment_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Laudato TV_max">
+<display-name lang="en">Laudato TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Poljoprivredna TV_max">
+<display-name lang="en">Poljoprivredna TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Balkan Trip_max">
+<display-name lang="en">Balkan Trip_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Luxe TV_max">
+<display-name lang="en">Luxe TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="myZen.tv_max">
+<display-name lang="en">myZen.tv_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="CMC - Croatian Music Channel_max">
+<display-name lang="en">CMC - Croatian Music Channel_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Club MTV_max">
+<display-name lang="en">Club MTV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="MTV Hits_max">
+<display-name lang="en">MTV Hits_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Stingray Djazz_max">
+<display-name lang="en">Stingray Djazz_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="MTV 00s_max">
+<display-name lang="en">MTV 00s_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="MTV 80s_max">
+<display-name lang="en">MTV 80s_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="NickMusic_max">
+<display-name lang="en">NickMusic_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="DMC_max">
+<display-name lang="en">DMC_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="DM SAT_max">
+<display-name lang="en">DM SAT_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Jugoton_max">
+<display-name lang="en">Jugoton_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="bravo! TV_max">
+<display-name lang="en">bravo! TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="HIT TV_max">
+<display-name lang="en">HIT TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Balkanika_max">
+<display-name lang="en">Balkanika_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Stingray Classica_max">
+<display-name lang="en">Stingray Classica_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Toxic TV_max">
+<display-name lang="en">Toxic TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="NONSTOP_max">
+<display-name lang="en">NONSTOP_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="ExtraTV_max">
+<display-name lang="en">ExtraTV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Toxic Folk_max">
+<display-name lang="en">Toxic Folk_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="IDJ TV_max">
+<display-name lang="en">IDJ TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Klape i tambure_max">
+<display-name lang="en">Klape i tambure_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="GameHub_max">
+<display-name lang="en">GameHub_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Zdrava TV_max">
+<display-name lang="en">Zdrava TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Sky News_max">
+<display-name lang="en">Sky News_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="CGTN_max">
+<display-name lang="en">CGTN_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Al Jazeera_max">
+<display-name lang="en">Al Jazeera_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Euronews_max">
+<display-name lang="en">Euronews_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="CNBC Europe_max">
+<display-name lang="en">CNBC Europe_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="CNN Europe_max">
+<display-name lang="en">CNN Europe_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="France 24 francuski_max">
+<display-name lang="en">France 24 francuski_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="France 24 engleski_max">
+<display-name lang="en">France 24 engleski_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="TRT WORLD_max">
+<display-name lang="en">TRT WORLD_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="ICTbusiness TV_max">
+<display-name lang="en">ICTbusiness TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="DW engleski_max">
+<display-name lang="en">DW engleski_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio HR1_max">
+<display-name lang="en">Radio HR1_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio HR2_max">
+<display-name lang="en">Radio HR2_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio HR3_max">
+<display-name lang="en">Radio HR3_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="bravo!_max">
+<display-name lang="en">bravo!_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Otvoreni_max">
+<display-name lang="en">Radio Otvoreni_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Happy FM_max">
+<display-name lang="en">Happy FM_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Antena_max">
+<display-name lang="en">Radio Antena_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="mojRADIO_max">
+<display-name lang="en">mojRADIO_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Top_max">
+<display-name lang="en">Radio Top_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Dalmacija_max">
+<display-name lang="en">Radio Dalmacija_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Marija_max">
+<display-name lang="en">Radio Marija_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Osijek_max">
+<display-name lang="en">Radio Osijek_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Pula_max">
+<display-name lang="en">Radio Pula_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Rijeka_max">
+<display-name lang="en">Radio Rijeka_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Sljeme_max">
+<display-name lang="en">Radio Sljeme_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Split_max">
+<display-name lang="en">Radio Split_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Zadar_max">
+<display-name lang="en">Radio Zadar_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Enter Zagreb_max">
+<display-name lang="en">Radio Enter Zagreb_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Slavonija_max">
+<display-name lang="en">Radio Slavonija_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Trogir_max">
+<display-name lang="en">Radio Trogir_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio ExtraFM_max">
+<display-name lang="en">Radio ExtraFM_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Katolicki_max">
+<display-name lang="en">Radio Katolicki_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio yammatFM_max">
+<display-name lang="en">Radio yammatFM_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Deejay HR_max">
+<display-name lang="en">Radio Deejay HR_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Capodistria_max">
+<display-name lang="en">Radio Capodistria_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Rovinj FM_max">
+<display-name lang="en">Radio Rovinj FM_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Radio Maria Vision_max">
+<display-name lang="en">Radio Maria Vision_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="OTV_max">
+<display-name lang="en">OTV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Z1_max">
+<display-name lang="en">Z1_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Mreža TV Zagreb_max">
+<display-name lang="en">Mreža TV Zagreb_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Kanal Ri_max">
+<display-name lang="en">Kanal Ri_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="TV Zapad_max">
+<display-name lang="en">TV Zapad_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="PLAVA Vinkovačka _max">
+<display-name lang="en">PLAVA Vinkovačka _max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="VTV_max">
+<display-name lang="en">VTV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="TV Nova_max">
+<display-name lang="en">TV Nova_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Televizija Dalmacija_max">
+<display-name lang="en">Televizija Dalmacija_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Trend TV_max">
+<display-name lang="en">Trend TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="SBTV_max">
+<display-name lang="en">SBTV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Osječka TV_max">
+<display-name lang="en">Osječka TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="TV Jadran_max">
+<display-name lang="en">TV Jadran_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Slavonska TV_max">
+<display-name lang="en">Slavonska TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Diadora TV_max">
+<display-name lang="en">Diadora TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Libertas TV_max">
+<display-name lang="en">Libertas TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="RTV HB_max">
+<display-name lang="en">RTV HB_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="TVE Internacional_max">
+<display-name lang="en">TVE Internacional_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="BHT 1_max">
+<display-name lang="en">BHT 1_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Aurora TV_max">
+<display-name lang="en">Aurora TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Balkan TV_max">
+<display-name lang="en">Balkan TV_max</display-name>
+<EPG-Provider>maxtv_hr</EPG-Provider>
+</channel>
+
+<channel id="Mtel Info">
+<display-name lang="en">Mtel Info</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="m:SAT Info">
+<display-name lang="en">m:SAT Info</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="BN TV">
+<display-name lang="en">BN TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="ATV HD">
+<display-name lang="en">ATV HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="SUPERSTAR ">
+<display-name lang="en">SUPERSTAR </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="SUPERSTAR HD">
+<display-name lang="en">SUPERSTAR HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Nova BH HD">
+<display-name lang="en">Nova BH HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink BH">
+<display-name lang="en">Pink BH</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="BHT">
+<display-name lang="en">BHT</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Prva ">
+<display-name lang="en">Prva </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTS Svet HD">
+<display-name lang="en">RTS Svet HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="TV K3 HD">
+<display-name lang="en">TV K3 HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Kurir TV HD">
+<display-name lang="en">Kurir TV HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Kurir TV">
+<display-name lang="en">Kurir TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTRS Plus">
+<display-name lang="en">RTRS Plus</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTS 1 HD">
+<display-name lang="en">RTS 1 HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTS Svet">
+<display-name lang="en">RTS Svet</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTS 2 HD">
+<display-name lang="en">RTS 2 HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Blic TV">
+<display-name lang="en">Blic TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="O2">
+<display-name lang="en">O2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTS 3">
+<display-name lang="en">RTS 3</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Happy TV">
+<display-name lang="en">Happy TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTS Nauka HD">
+<display-name lang="en">RTS Nauka HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Studio B">
+<display-name lang="en">Studio B</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink 2">
+<display-name lang="en">Pink 2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Insta TV HD">
+<display-name lang="en">Insta TV HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Vesti">
+<display-name lang="en">Vesti</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="SUPERSTAR 2">
+<display-name lang="en">SUPERSTAR 2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Euronews Serbia">
+<display-name lang="en">Euronews Serbia</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Tanjug TV">
+<display-name lang="en">Tanjug TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Prva MAX">
+<display-name lang="en">Prva MAX</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="BN 2 HD">
+<display-name lang="en">BN 2 HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Bloomberg Adria">
+<display-name lang="en">Bloomberg Adria</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Dečija TV">
+<display-name lang="en">Dečija TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="BN Music HD">
+<display-name lang="en">BN Music HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Kitchen TV HD">
+<display-name lang="en">Kitchen TV HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Red TV">
+<display-name lang="en">Red TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="UNA TV">
+<display-name lang="en">UNA TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Nova BH ">
+<display-name lang="en">Nova BH </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Agro TV HD">
+<display-name lang="en">Agro TV HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Bloomberg Adria HD">
+<display-name lang="en">Bloomberg Adria HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="SKAJ">
+<display-name lang="en">SKAJ</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Dexy TV">
+<display-name lang="en">Dexy TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="BN 2">
+<display-name lang="en">BN 2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 1 HD BiH">
+<display-name lang="en">Arena Sport 1 HD BiH</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Insta TV">
+<display-name lang="en">Insta TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RAS TV">
+<display-name lang="en">RAS TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Balkan Trip HD">
+<display-name lang="en">Balkan Trip HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="K:CN ">
+<display-name lang="en">K:CN </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Balkan TV">
+<display-name lang="en">Balkan TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="B92">
+<display-name lang="en">B92</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Prva Max">
+<display-name lang="en">Prva Max</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Ekovizija HD">
+<display-name lang="en">Ekovizija HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="SOS Kanal Plus">
+<display-name lang="en">SOS Kanal Plus</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Super Sat TV">
+<display-name lang="en">Super Sat TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Hram TV">
+<display-name lang="en">Hram TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="TV K3">
+<display-name lang="en">TV K3</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Nickelodeon Junior">
+<display-name lang="en">Nickelodeon Junior</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTL ">
+<display-name lang="en">RTL </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Duck TV">
+<display-name lang="en">Duck TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTL HD">
+<display-name lang="en">RTL HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTL 2 ">
+<display-name lang="en">RTL 2 </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTL 2  HD">
+<display-name lang="en">RTL 2  HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="HRT 1 HD">
+<display-name lang="en">HRT 1 HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Adria TV">
+<display-name lang="en">Adria TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Boomerang">
+<display-name lang="en">Boomerang</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Hype TV">
+<display-name lang="en">Hype TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="HRT 2 HD">
+<display-name lang="en">HRT 2 HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="PINK M">
+<display-name lang="en">PINK M</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="TV Nikšić">
+<display-name lang="en">TV Nikšić</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTV SLO 1 ">
+<display-name lang="en">RTV SLO 1 </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="HRT 4 HD">
+<display-name lang="en">HRT 4 HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Arena Esport">
+<display-name lang="en">Arena Esport</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="AL Jazeera Balkans">
+<display-name lang="en">AL Jazeera Balkans</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Moj astrolog ">
+<display-name lang="en">Moj astrolog </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="O Kanal">
+<display-name lang="en">O Kanal</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="FTV HD">
+<display-name lang="en">FTV HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Ekovizija ">
+<display-name lang="en">Ekovizija </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="VIKOM">
+<display-name lang="en">VIKOM</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="HAYAT TV">
+<display-name lang="en">HAYAT TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="FACE TV">
+<display-name lang="en">FACE TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTV HIT">
+<display-name lang="en">RTV HIT</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Action">
+<display-name lang="en">Pink Action</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Herceg TV">
+<display-name lang="en">Herceg TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Thriller">
+<display-name lang="en">Pink Thriller</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="AL Jazeera Balkans HD">
+<display-name lang="en">AL Jazeera Balkans HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="TV SLOBOMIR">
+<display-name lang="en">TV SLOBOMIR</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Crime &amp; Mystery">
+<display-name lang="en">Pink Crime &amp; Mystery</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="BEL TV">
+<display-name lang="en">BEL TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTV Sarajevo">
+<display-name lang="en">RTV Sarajevo</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="ELTA 1">
+<display-name lang="en">ELTA 1</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Hayat">
+<display-name lang="en">Hayat</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTVIS">
+<display-name lang="en">RTVIS</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Romance">
+<display-name lang="en">Pink Romance</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="ALFA TV">
+<display-name lang="en">ALFA TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink World Cinema">
+<display-name lang="en">Pink World Cinema</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="TV Prijedor">
+<display-name lang="en">TV Prijedor</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Hema TV">
+<display-name lang="en">Hema TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="NTV 101">
+<display-name lang="en">NTV 101</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="AXN Spin">
+<display-name lang="en">AXN Spin</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="NTV Arena">
+<display-name lang="en">NTV Arena</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTV KD">
+<display-name lang="en">RTV KD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Sci Fi">
+<display-name lang="en">Sci Fi</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="HAYAT PLUS">
+<display-name lang="en">HAYAT PLUS</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="BDC TV">
+<display-name lang="en">BDC TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Kuvo TV">
+<display-name lang="en">Kuvo TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="IN TV">
+<display-name lang="en">IN TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="TV 101">
+<display-name lang="en">TV 101</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="ONE ">
+<display-name lang="en">ONE </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Info Plus">
+<display-name lang="en">Info Plus</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Izvorna TV">
+<display-name lang="en">Izvorna TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="FilmBox Premium">
+<display-name lang="en">FilmBox Premium</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="FilmBox Stars">
+<display-name lang="en">FilmBox Stars</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="FilmBox Extra">
+<display-name lang="en">FilmBox Extra</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="FilmBox Arthouse">
+<display-name lang="en">FilmBox Arthouse</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Moj astrolog HD">
+<display-name lang="en">Moj astrolog HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="SUPERSTAR 2 HD">
+<display-name lang="en">SUPERSTAR 2 HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTS Život">
+<display-name lang="en">RTS Život</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTV USK HD">
+<display-name lang="en">RTV USK HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTS Drama">
+<display-name lang="en">RTS Drama</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Film Klub Extra">
+<display-name lang="en">Film Klub Extra</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTS  Kolo">
+<display-name lang="en">RTS  Kolo</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Prva Life">
+<display-name lang="en">Prva Life</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="OTV Valentino">
+<display-name lang="en">OTV Valentino</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTS Trezor">
+<display-name lang="en">RTS Trezor</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Prva Files">
+<display-name lang="en">Prva Files</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Prva BH HD">
+<display-name lang="en">Prva BH HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTS Muzika">
+<display-name lang="en">RTS Muzika</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Prva Kick">
+<display-name lang="en">Prva Kick</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="O Kanal Plus HD ">
+<display-name lang="en">O Kanal Plus HD </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Prva World">
+<display-name lang="en">Prva World</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTV HB HD">
+<display-name lang="en">RTV HB HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTV Gradiska HD">
+<display-name lang="en">RTV Gradiska HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTS Klasika">
+<display-name lang="en">RTS Klasika</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 1">
+<display-name lang="en">Arena Sport 1</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 5 ">
+<display-name lang="en">Arena Sport 5 </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport HR">
+<display-name lang="en">Arena Sport HR</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTS Poletarac">
+<display-name lang="en">RTS Poletarac</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 6 ">
+<display-name lang="en">Arena Sport 6 </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Eurosport 1">
+<display-name lang="en">Eurosport 1</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="NBA TV HD">
+<display-name lang="en">NBA TV HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Eurosport 2">
+<display-name lang="en">Eurosport 2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTV 2">
+<display-name lang="en">RTV 2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="TV Vijesti">
+<display-name lang="en">TV Vijesti</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Zvezda TV HD">
+<display-name lang="en">Zvezda TV HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="BTV">
+<display-name lang="en">BTV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Al Jazeera">
+<display-name lang="en">Al Jazeera</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="BN ">
+<display-name lang="en">BN </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="TV Hram">
+<display-name lang="en">TV Hram</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Liverpool FC TV HD">
+<display-name lang="en">Liverpool FC TV HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Arena Fight HD">
+<display-name lang="en">Arena Fight HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="BK">
+<display-name lang="en">BK</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="TV Mreža Most">
+<display-name lang="en">TV Mreža Most</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Koreni">
+<display-name lang="en">Koreni</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="SOS Kanal">
+<display-name lang="en">SOS Kanal</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="DTX ">
+<display-name lang="en">DTX </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Fight Network">
+<display-name lang="en">Fight Network</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Travel Channel">
+<display-name lang="en">Travel Channel</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="FightBox">
+<display-name lang="en">FightBox</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Fast&amp;FunBox">
+<display-name lang="en">Fast&amp;FunBox</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Reality">
+<display-name lang="en">Pink Reality</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Trace Sport Stars">
+<display-name lang="en">Trace Sport Stars</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Prva">
+<display-name lang="en">Prva</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Arena sport 1x2">
+<display-name lang="en">Arena sport 1x2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Premier League TV">
+<display-name lang="en">Premier League TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="BBC Earth">
+<display-name lang="en">BBC Earth</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 1 HD Srbija">
+<display-name lang="en">Arena Sport 1 HD Srbija</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="National Geographic Wild">
+<display-name lang="en">National Geographic Wild</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 5 HD">
+<display-name lang="en">Arena Sport 5 HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="History2">
+<display-name lang="en">History2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Arena Esport HD">
+<display-name lang="en">Arena Esport HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 6 HD">
+<display-name lang="en">Arena Sport 6 HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Eurosport 1 HD">
+<display-name lang="en">Eurosport 1 HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Eurosport 2 HD">
+<display-name lang="en">Eurosport 2 HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Nature HD­ / History HD">
+<display-name lang="en">Nature HD­ / History HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="TV Partizan">
+<display-name lang="en">TV Partizan</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="DocuBox ">
+<display-name lang="en">DocuBox </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Kuvo TV HD">
+<display-name lang="en">Kuvo TV HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Arena Fight">
+<display-name lang="en">Arena Fight</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="ID HD">
+<display-name lang="en">ID HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Liverpool FC TV">
+<display-name lang="en">Liverpool FC TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="National Geographic HD">
+<display-name lang="en">National Geographic HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="LOL">
+<display-name lang="en">LOL</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Gametoon ">
+<display-name lang="en">Gametoon </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTL Croatia World">
+<display-name lang="en">RTL Croatia World</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="MTV Europe">
+<display-name lang="en">MTV Europe</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Toxic Rap">
+<display-name lang="en">Toxic Rap</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="MTV Dance International">
+<display-name lang="en">MTV Dance International</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="MTV Rocks International">
+<display-name lang="en">MTV Rocks International</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="MTV 80’s">
+<display-name lang="en">MTV 80’s</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="TV D+ ">
+<display-name lang="en">TV D+ </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTR PLANETA">
+<display-name lang="en">RTR PLANETA</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Euronews">
+<display-name lang="en">Euronews</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Fox News Channel">
+<display-name lang="en">Fox News Channel</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="DW English">
+<display-name lang="en">DW English</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Extreme Sports">
+<display-name lang="en">Extreme Sports</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Motorvision">
+<display-name lang="en">Motorvision</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Telebet">
+<display-name lang="en">Telebet</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Brazzers TV">
+<display-name lang="en">Brazzers TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Erotic">
+<display-name lang="en">Erotic</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Erotic 2">
+<display-name lang="en">Erotic 2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Cartoon Network">
+<display-name lang="en">Cartoon Network</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="BABY TV">
+<display-name lang="en">BABY TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Minimax">
+<display-name lang="en">Minimax</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTL KOCKICA HD">
+<display-name lang="en">RTL KOCKICA HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Super Kids">
+<display-name lang="en">Pink Super Kids</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Kids">
+<display-name lang="en">Pink Kids</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Nickelodeon">
+<display-name lang="en">Nickelodeon</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTL KOCKICA">
+<display-name lang="en">RTL KOCKICA</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Da Vinci Learning">
+<display-name lang="en">Da Vinci Learning</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Tropik TV HD">
+<display-name lang="en">Tropik TV HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="HAYATOVCI">
+<display-name lang="en">HAYATOVCI</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Jim Jam">
+<display-name lang="en">Jim Jam</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Kazbuka">
+<display-name lang="en">Kazbuka</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="NickToons">
+<display-name lang="en">NickToons</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Dexy TV HD">
+<display-name lang="en">Dexy TV HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Bravo Music">
+<display-name lang="en">Bravo Music</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Klasik">
+<display-name lang="en">Klasik</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Film">
+<display-name lang="en">Pink Film</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Timeless Dizi Channel">
+<display-name lang="en">Timeless Dizi Channel</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Serije">
+<display-name lang="en">Pink Serije</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Prva Life ">
+<display-name lang="en">Prva Life </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Cinemax HD">
+<display-name lang="en">Cinemax HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Cinemax 2 HD">
+<display-name lang="en">Cinemax 2 HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="HISTORY">
+<display-name lang="en">HISTORY</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="National Geographic">
+<display-name lang="en">National Geographic</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Discovery Channel">
+<display-name lang="en">Discovery Channel</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Animal Planet ">
+<display-name lang="en">Animal Planet </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="ID">
+<display-name lang="en">ID</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Discovery Showcase HD">
+<display-name lang="en">Discovery Showcase HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Viasat Nature">
+<display-name lang="en">Viasat Nature</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Viasat Explore">
+<display-name lang="en">Viasat Explore</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Discovery Science">
+<display-name lang="en">Discovery Science</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Viasat History">
+<display-name lang="en">Viasat History</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Viasat History HD/ Nature HD">
+<display-name lang="en">Viasat History HD/ Nature HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Viasat Nature HD">
+<display-name lang="en">Viasat Nature HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="ENGLISH TV">
+<display-name lang="en">ENGLISH TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="CBS Reality">
+<display-name lang="en">CBS Reality</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="DOX TV">
+<display-name lang="en">DOX TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Style">
+<display-name lang="en">Pink Style</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Food Network ">
+<display-name lang="en">Food Network </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Fashion">
+<display-name lang="en">Pink Fashion</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Zelena TV Zdravlje">
+<display-name lang="en">Zelena TV Zdravlje</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="HGTV ">
+<display-name lang="en">HGTV </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RTL Living">
+<display-name lang="en">RTL Living</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Fashion ">
+<display-name lang="en">Fashion </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Turizam TV ">
+<display-name lang="en">Turizam TV </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="FashionBox">
+<display-name lang="en">FashionBox</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Balkan Trip">
+<display-name lang="en">Balkan Trip</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="TV DR">
+<display-name lang="en">TV DR</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="MTV Hits International">
+<display-name lang="en">MTV Hits International</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="360 Tune Box">
+<display-name lang="en">360 Tune Box</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="MTV 00s">
+<display-name lang="en">MTV 00s</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink/Roll">
+<display-name lang="en">Pink/Roll</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="OK Kanal">
+<display-name lang="en">OK Kanal</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="R&amp;R Muzzik">
+<display-name lang="en">R&amp;R Muzzik</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Muzzik">
+<display-name lang="en">Muzzik</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pop Star">
+<display-name lang="en">Pop Star</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="WW Muzzik">
+<display-name lang="en">WW Muzzik</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Music">
+<display-name lang="en">Pink Music</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Music 2">
+<display-name lang="en">Pink Music 2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="PINK KONCERT">
+<display-name lang="en">PINK KONCERT</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Hits 2">
+<display-name lang="en">Pink Hits 2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Kontakt TV">
+<display-name lang="en">Kontakt TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Toxic TV">
+<display-name lang="en">Toxic TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="K1">
+<display-name lang="en">K1</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Toxic Folk">
+<display-name lang="en">Toxic Folk</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="BN Music">
+<display-name lang="en">BN Music</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Jeka Muzzik">
+<display-name lang="en">Jeka Muzzik</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="DM SAT">
+<display-name lang="en">DM SAT</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="PINK FOLK 2">
+<display-name lang="en">PINK FOLK 2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Keno TV">
+<display-name lang="en">Keno TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="City Play">
+<display-name lang="en">City Play</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Folk">
+<display-name lang="en">Pink Folk</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="KCN3">
+<display-name lang="en">KCN3</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="KCN2">
+<display-name lang="en">KCN2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Svetska srpska televizija">
+<display-name lang="en">Svetska srpska televizija</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="O Kanal Music HD ">
+<display-name lang="en">O Kanal Music HD </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Mezzo Tv">
+<display-name lang="en">Mezzo Tv</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Mezzo Live">
+<display-name lang="en">Mezzo Live</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="PINK ZABAVA">
+<display-name lang="en">PINK ZABAVA</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="EG Melody">
+<display-name lang="en">EG Melody</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pop Melody">
+<display-name lang="en">Pop Melody</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="EX YU Melody ">
+<display-name lang="en">EX YU Melody </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Folk Melody">
+<display-name lang="en">Folk Melody</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Hits Melody">
+<display-name lang="en">Hits Melody</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Amari">
+<display-name lang="en">Amari</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="PINK WORLD">
+<display-name lang="en">PINK WORLD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="PINK PLUS">
+<display-name lang="en">PINK PLUS</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="PINK EXTRA">
+<display-name lang="en">PINK EXTRA</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="HA HA">
+<display-name lang="en">HA HA</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="HAYAT MUSIC">
+<display-name lang="en">HAYAT MUSIC</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="HAYAT FOLK">
+<display-name lang="en">HAYAT FOLK</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Melos TV">
+<display-name lang="en">Melos TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Happy Reality 1">
+<display-name lang="en">Happy Reality 1</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Happy Reality 2">
+<display-name lang="en">Happy Reality 2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Zadruga 1">
+<display-name lang="en">Zadruga 1</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Zadruga 2">
+<display-name lang="en">Zadruga 2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Zadruga 3">
+<display-name lang="en">Zadruga 3</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Zadruga 4">
+<display-name lang="en">Zadruga 4</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Radio BN">
+<display-name lang="en">Radio BN</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Radio RS">
+<display-name lang="en">Radio RS</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Nes radio">
+<display-name lang="en">Nes radio</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Kontakt Radio">
+<display-name lang="en">Kontakt Radio</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Naxi Radio">
+<display-name lang="en">Naxi Radio</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Naxi Kids Radio">
+<display-name lang="en">Naxi Kids Radio</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Naxi Rock Radio">
+<display-name lang="en">Naxi Rock Radio</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="BIG Radio 1">
+<display-name lang="en">BIG Radio 1</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="BIG Radio 2">
+<display-name lang="en">BIG Radio 2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Euronews Serbia HD">
+<display-name lang="en">Euronews Serbia HD</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="PRO 7">
+<display-name lang="en">PRO 7</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RUSSIA 24">
+<display-name lang="en">RUSSIA 24</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="RT NEWS TV">
+<display-name lang="en">RT NEWS TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="SAT.1">
+<display-name lang="en">SAT.1</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="CGTN ">
+<display-name lang="en">CGTN </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="BVN">
+<display-name lang="en">BVN</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="EROX ">
+<display-name lang="en">EROX </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="EROXXX ">
+<display-name lang="en">EROXXX </display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="HUSTLER">
+<display-name lang="en">HUSTLER</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Erotic 3">
+<display-name lang="en">Pink Erotic 3</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Erotic 4">
+<display-name lang="en">Pink Erotic 4</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Erotic">
+<display-name lang="en">Pink Erotic</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Erotic 5">
+<display-name lang="en">Pink Erotic 5</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Erotic 2">
+<display-name lang="en">Pink Erotic 2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Erotic 6">
+<display-name lang="en">Pink Erotic 6</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Erotic 7">
+<display-name lang="en">Pink Erotic 7</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Pink Erotic 8">
+<display-name lang="en">Pink Erotic 8</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Babes TV">
+<display-name lang="en">Babes TV</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Realty Kings">
+<display-name lang="en">Realty Kings</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Bang U">
+<display-name lang="en">Bang U</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Adult 1">
+<display-name lang="en">Adult 1</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Adult 2">
+<display-name lang="en">Adult 2</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Adult 3">
+<display-name lang="en">Adult 3</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Adult 4">
+<display-name lang="en">Adult 4</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Adult 5">
+<display-name lang="en">Adult 5</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Adult 6">
+<display-name lang="en">Adult 6</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="Adult 7">
+<display-name lang="en">Adult 7</display-name>
+<EPG-Provider>mtel_ba</EPG-Provider>
+</channel>
+
+<channel id="HBO 3 HD (SN)">
+<display-name lang="en">HBO 3 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="HBO 2 HD (SN)">
+<display-name lang="en">HBO 2 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Superstar 3 (SN)">
+<display-name lang="en">Superstar 3 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS EX YU (SN)">
+<display-name lang="en">RadioS EX YU (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Current time TV HD (SN)">
+<display-name lang="en">Current time TV HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Pop Ballads (SN)">
+<display-name lang="en">RadioS Pop Ballads (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Moj Astrolog (SN)">
+<display-name lang="en">Moj Astrolog (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="HBO HD (SN)">
+<display-name lang="en">HBO HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Arena Premium 3 (SN)">
+<display-name lang="en">Arena Premium 3 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="HAPPY REALITY 1 (SN)">
+<display-name lang="en">HAPPY REALITY 1 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="HAPPY REALITY 2 (SN)">
+<display-name lang="en">HAPPY REALITY 2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="BN Sat HD (SN)">
+<display-name lang="en">BN Sat HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Arena Fight (SN)">
+<display-name lang="en">Arena Fight (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Bloomberg Adria (SN)">
+<display-name lang="en">Bloomberg Adria (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Klassik Radio (SN)">
+<display-name lang="en">Klassik Radio (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Jam FM (SN)">
+<display-name lang="en">Jam FM (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Sat TV (SN)">
+<display-name lang="en">Sat TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="VTV (SN)">
+<display-name lang="en">VTV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Subotica (SN)">
+<display-name lang="en">TV Subotica (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Bum Bum Radio (SN)">
+<display-name lang="en">Bum Bum Radio (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV PLUS HD (SN)">
+<display-name lang="en">TV PLUS HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio 202 (SN)">
+<display-name lang="en">Radio 202 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Super FM (SN)">
+<display-name lang="en">Super FM (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio Beograd 1 (SN)">
+<display-name lang="en">Radio Beograd 1 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio Beograd 2 (SN)">
+<display-name lang="en">Radio Beograd 2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Kids (SN)">
+<display-name lang="en">Pink Kids (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV FRONT (SN)">
+<display-name lang="en">TV FRONT (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTS 3 (SN)">
+<display-name lang="en">RTS 3 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Happy (SN)">
+<display-name lang="en">Happy (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="DUGA TV (SN)">
+<display-name lang="en">DUGA TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="DOX TV (SN)">
+<display-name lang="en">DOX TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TDC (SN)">
+<display-name lang="en">TDC (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="National Geographic (SN)">
+<display-name lang="en">National Geographic (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="VIASAT EXPLORE (SN)">
+<display-name lang="en">VIASAT EXPLORE (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Viasat History (SN)">
+<display-name lang="en">Viasat History (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Rock Anthems (SN)">
+<display-name lang="en">Rock Anthems (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Travel XP (SN)">
+<display-name lang="en">Travel XP (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV KANAL M (SN)">
+<display-name lang="en">TV KANAL M (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Liverpool TV HD (SN)">
+<display-name lang="en">Liverpool TV HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV TRSTENIK (SN)">
+<display-name lang="en">TV TRSTENIK (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Trap &amp; Rap (SN)">
+<display-name lang="en">RadioS Trap &amp; Rap (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Easy Listening (SN)">
+<display-name lang="en">Easy Listening (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Dorcel HD (SN)">
+<display-name lang="en">Dorcel HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="ZONA PLUS (SN)">
+<display-name lang="en">ZONA PLUS (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 2 HD (SN)">
+<display-name lang="en">Arena Sport 2 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 3 HD (SN)">
+<display-name lang="en">Arena Sport 3 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 1 HD (SN)">
+<display-name lang="en">Arena Sport 1 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 5 HD (SN)">
+<display-name lang="en">Arena Sport 5 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV MELOS (SN)">
+<display-name lang="en">TV MELOS (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV KRALJEVO (SN)">
+<display-name lang="en">TV KRALJEVO (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 4 HD (SN)">
+<display-name lang="en">Arena Sport 4 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Hype FM (SN)">
+<display-name lang="en">Hype FM (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Plana (SN)">
+<display-name lang="en">TV Plana (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="ADULT CHANNEL 4 (SN)">
+<display-name lang="en">ADULT CHANNEL 4 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="PRVA WORLD (SN)">
+<display-name lang="en">PRVA WORLD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="ADULT CHANNEL 5 (SN)">
+<display-name lang="en">ADULT CHANNEL 5 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="ADULT CHANNEL 6 (SN)">
+<display-name lang="en">ADULT CHANNEL 6 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="HGTV (SN)">
+<display-name lang="en">HGTV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Eurosport 1 HD (SN)">
+<display-name lang="en">Eurosport 1 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Info 24 Plus (SN)">
+<display-name lang="en">Info 24 Plus (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTV 101 (SN)">
+<display-name lang="en">RTV 101 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Sport (SN)">
+<display-name lang="en">RadioS Sport (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Adria TV (SN)">
+<display-name lang="en">Adria TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTS Nauka HD (SN)">
+<display-name lang="en">RTS Nauka HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV JASENICA (SN)">
+<display-name lang="en">TV JASENICA (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Moja TV (SN)">
+<display-name lang="en">Moja TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Exitos Latinos (SN)">
+<display-name lang="en">Exitos Latinos (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Balkan Music/Gypsy (SN)">
+<display-name lang="en">Balkan Music/Gypsy (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV KRAGUJEVAC (SN)">
+<display-name lang="en">TV KRAGUJEVAC (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="BBC News (SN)">
+<display-name lang="en">BBC News (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="New Age (SN)">
+<display-name lang="en">New Age (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Bravo Music (SN)">
+<display-name lang="en">Bravo Music (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Hram TV (SN)">
+<display-name lang="en">Hram TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Pop Folk (SN)">
+<display-name lang="en">RadioS Pop Folk (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Narodna TV (SN)">
+<display-name lang="en">Narodna TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="ADULT CHANNEL 2 (SN)">
+<display-name lang="en">ADULT CHANNEL 2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Mix (SN)">
+<display-name lang="en">RadioS Mix (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV 5 MONDE (SN)">
+<display-name lang="en">TV 5 MONDE (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Moja Happy Muzika (SN)">
+<display-name lang="en">Moja Happy Muzika (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Moja Happy Zemlja (SN)">
+<display-name lang="en">Moja Happy Zemlja (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Love Nature (SN)">
+<display-name lang="en">Love Nature (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Apatin (SN)">
+<display-name lang="en">TV Apatin (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Kurir TV (SN)">
+<display-name lang="en">Kurir TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Freedom (SN)">
+<display-name lang="en">Freedom (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTV Tesla (SN)">
+<display-name lang="en">RTV Tesla (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="DocuBox HD (SN)">
+<display-name lang="en">DocuBox HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="KANAL PI (SN)">
+<display-name lang="en">KANAL PI (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV K23 (SN)">
+<display-name lang="en">TV K23 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Total Hits Italy (SN)">
+<display-name lang="en">Total Hits Italy (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV PIROT (SN)">
+<display-name lang="en">TV PIROT (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV SREMSKA (SN)">
+<display-name lang="en">TV SREMSKA (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV FRUSKA GORA (SN)">
+<display-name lang="en">TV FRUSKA GORA (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="AL JAZEERA BALKANS HD (SN)">
+<display-name lang="en">AL JAZEERA BALKANS HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="ADULT CHANNEL 1 (SN)">
+<display-name lang="en">ADULT CHANNEL 1 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS 2000-te Folk (SN)">
+<display-name lang="en">RadioS 2000-te Folk (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="PINK SCI-FI&amp;FANTASY (SN)">
+<display-name lang="en">PINK SCI-FI&amp;FANTASY (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Romance (SN)">
+<display-name lang="en">Pink Romance (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Reality (SN)">
+<display-name lang="en">Pink Reality (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Latino (SN)">
+<display-name lang="en">RadioS Latino (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="PINK THRILLER (SN)">
+<display-name lang="en">PINK THRILLER (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="BTV (SN)">
+<display-name lang="en">BTV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="CCTV-4 (SN)">
+<display-name lang="en">CCTV-4 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Nicktoons (SN)">
+<display-name lang="en">Nicktoons (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Bloomberg (SN)">
+<display-name lang="en">Bloomberg (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Rock Ballads (SN)">
+<display-name lang="en">RadioS Rock Ballads (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Crime &amp; Investigation Network (SN)">
+<display-name lang="en">Crime &amp; Investigation Network (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="DaVinci Learning (SN)">
+<display-name lang="en">DaVinci Learning (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Hype TV (SN)">
+<display-name lang="en">Hype TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTG INT (SN)">
+<display-name lang="en">RTG INT (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV BOR (SN)">
+<display-name lang="en">TV BOR (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="HIT PLUS (SN)">
+<display-name lang="en">HIT PLUS (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV LESKOVAC (SN)">
+<display-name lang="en">TV LESKOVAC (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Euro Cinema 1 HD (SN)">
+<display-name lang="en">Euro Cinema 1 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Horror (SN)">
+<display-name lang="en">Pink Horror (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Premium (SN)">
+<display-name lang="en">Pink Premium (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Rusija 24 (SN)">
+<display-name lang="en">Rusija 24 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Humana TV Plus (SN)">
+<display-name lang="en">Humana TV Plus (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Sci Fi (SN)">
+<display-name lang="en">Sci Fi (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="VESTI (SN)">
+<display-name lang="en">VESTI (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Sombor (SN)">
+<display-name lang="en">TV Sombor (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Superstar TV HD (SN)">
+<display-name lang="en">Superstar TV HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TLC (SN)">
+<display-name lang="en">TLC (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Classic (SN)">
+<display-name lang="en">Pink Classic (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="BBC Earth HD (SN)">
+<display-name lang="en">BBC Earth HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="The Spa (SN)">
+<display-name lang="en">The Spa (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Stingray Specials (SN)">
+<display-name lang="en">Stingray Specials (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Hip Hop (SN)">
+<display-name lang="en">Hip Hop (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Riddim (SN)">
+<display-name lang="en">Riddim (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Baby TV (SN)">
+<display-name lang="en">Baby TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTV Kiss HD (SN)">
+<display-name lang="en">RTV Kiss HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="DM-SAT (SN)">
+<display-name lang="en">DM-SAT (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="DW (SN)">
+<display-name lang="en">DW (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Euro Cinema 2 HD (SN)">
+<display-name lang="en">Euro Cinema 2 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Euro Cinema 3 HD (SN)">
+<display-name lang="en">Euro Cinema 3 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Soap (SN)">
+<display-name lang="en">Pink Soap (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Headbangers (SN)">
+<display-name lang="en">Headbangers (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Pedia (SN)">
+<display-name lang="en">Pink Pedia (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink World (SN)">
+<display-name lang="en">Pink World (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Super Kids (SN)">
+<display-name lang="en">Pink Super Kids (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Fashion (SN)">
+<display-name lang="en">Pink Fashion (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Srpska TV (SN)">
+<display-name lang="en">Srpska TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Epic Drama (SN)">
+<display-name lang="en">Epic Drama (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Extreme Sports (SN)">
+<display-name lang="en">Extreme Sports (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Euronews (SN)">
+<display-name lang="en">Euronews (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="E! (SN)">
+<display-name lang="en">E! (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Dancefloor Fillers (SN)">
+<display-name lang="en">Dancefloor Fillers (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Silk (Love Songs) (SN)">
+<display-name lang="en">Silk (Love Songs) (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="FashionBox HD (SN)">
+<display-name lang="en">FashionBox HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Fashion TV (SN)">
+<display-name lang="en">Fashion TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Greatest Hits (SN)">
+<display-name lang="en">Greatest Hits (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="CMC (SN)">
+<display-name lang="en">CMC (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Minimax (SN)">
+<display-name lang="en">Minimax (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="PRVA PLUS (SN)">
+<display-name lang="en">PRVA PLUS (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="HRT 1 (SN)">
+<display-name lang="en">HRT 1 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTL HR (SN)">
+<display-name lang="en">RTL HR (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="SOS PLUS (SN)">
+<display-name lang="en">SOS PLUS (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTR PLANETA (SN)">
+<display-name lang="en">RTR PLANETA (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Toxic TV (SN)">
+<display-name lang="en">Toxic TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Balkan Trip HD (SN)">
+<display-name lang="en">Balkan Trip HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Music 2 (SN)">
+<display-name lang="en">Pink Music 2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="PINK KONCERT (SN)">
+<display-name lang="en">PINK KONCERT (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Kitchen HD (SN)">
+<display-name lang="en">Kitchen HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="K1 HD (SN)">
+<display-name lang="en">K1 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Elita Live 4 (SN)">
+<display-name lang="en">Elita Live 4 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio Banker (SN)">
+<display-name lang="en">Radio Banker (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Hits 2 (SN)">
+<display-name lang="en">Pink Hits 2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="NBA TV (SN)">
+<display-name lang="en">NBA TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink World Cinema (SN)">
+<display-name lang="en">Pink World Cinema (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Hits (SN)">
+<display-name lang="en">Pink Hits (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Hit FM radio HD (SN)">
+<display-name lang="en">Hit FM radio HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Bap (SN)">
+<display-name lang="en">TV Bap (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV CARIBROD (SN)">
+<display-name lang="en">TV CARIBROD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="PRVA MAX (SN)">
+<display-name lang="en">PRVA MAX (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV GRADSKA M (SN)">
+<display-name lang="en">TV GRADSKA M (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="PRVA CG (SN)">
+<display-name lang="en">PRVA CG (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Skay TV (SN)">
+<display-name lang="en">Skay TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Forum (SN)">
+<display-name lang="en">TV Forum (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV LOTEL PLUS (SN)">
+<display-name lang="en">TV LOTEL PLUS (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 10 HD (SN)">
+<display-name lang="en">Arena Sport 10 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV LAV PLUS (SN)">
+<display-name lang="en">TV LAV PLUS (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV 4S (SN)">
+<display-name lang="en">TV 4S (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Jim Jam (SN)">
+<display-name lang="en">Jim Jam (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Yachting TV (SN)">
+<display-name lang="en">Yachting TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Newsmax Balkans (SN)">
+<display-name lang="en">Newsmax Balkans (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink HD (SN)">
+<display-name lang="en">Pink HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="B92 (SN)">
+<display-name lang="en">B92 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="KAZBUKA HD (SN)">
+<display-name lang="en">KAZBUKA HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV SAGA (SN)">
+<display-name lang="en">TV SAGA (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV BELLE AMIE* (SN)">
+<display-name lang="en">TV BELLE AMIE* (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="HTV 4 (SN)">
+<display-name lang="en">HTV 4 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="HTV 3 (SN)">
+<display-name lang="en">HTV 3 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="HTV 5 (SN)">
+<display-name lang="en">HTV 5 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTS 1 HD (SN)">
+<display-name lang="en">RTS 1 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTS 2 HD (SN)">
+<display-name lang="en">RTS 2 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Prva (SN)">
+<display-name lang="en">Prva (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV 1000 (SN)">
+<display-name lang="en">TV 1000 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV SUNCE (SN)">
+<display-name lang="en">TV SUNCE (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="ADULT CHANNEL 3 (SN)">
+<display-name lang="en">ADULT CHANNEL 3 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV BANAT (SN)">
+<display-name lang="en">TV BANAT (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Cinemax 2 HD (SN)">
+<display-name lang="en">Cinemax 2 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTV Bujanovac (SN)">
+<display-name lang="en">RTV Bujanovac (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Dunav Televizija (SN)">
+<display-name lang="en">Dunav Televizija (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Diva (SN)">
+<display-name lang="en">Diva (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV SEZAM BOR (SN)">
+<display-name lang="en">TV SEZAM BOR (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="ATV (SN)">
+<display-name lang="en">ATV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="DR HD (SN)">
+<display-name lang="en">DR HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="K3 (SN)">
+<display-name lang="en">K3 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTRS Plus (SN)">
+<display-name lang="en">RTRS Plus (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Turizam Plus TV (SN)">
+<display-name lang="en">Turizam Plus TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Cartoon Network (SN)">
+<display-name lang="en">Cartoon Network (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="FightBox HD (SN)">
+<display-name lang="en">FightBox HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="CNN (SN)">
+<display-name lang="en">CNN (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Red TV (SN)">
+<display-name lang="en">Red TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="SKY NEWS (SN)">
+<display-name lang="en">SKY NEWS (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Eurosport 2 HD (SN)">
+<display-name lang="en">Eurosport 2 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="CITY PLAY (SN)">
+<display-name lang="en">CITY PLAY (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Total Hits Balkans (SN)">
+<display-name lang="en">Total Hits Balkans (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Hit List (SN)">
+<display-name lang="en">Hit List (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="MTV (SN)">
+<display-name lang="en">MTV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="MTV Hits (SN)">
+<display-name lang="en">MTV Hits (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Classical Greats (SN)">
+<display-name lang="en">Classical Greats (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="MTV Rocks (SN)">
+<display-name lang="en">MTV Rocks (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="PINK EXTRA (SN)">
+<display-name lang="en">PINK EXTRA (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Plus (SN)">
+<display-name lang="en">Pink Plus (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Folk 2 (SN)">
+<display-name lang="en">Pink Folk 2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="ADULT CHANNEL 7 (SN)">
+<display-name lang="en">ADULT CHANNEL 7 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="BN (SN)">
+<display-name lang="en">BN (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTL Radio (SN)">
+<display-name lang="en">RTL Radio (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Rock Radio (SN)">
+<display-name lang="en">Rock Radio (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Info kanal (SN)">
+<display-name lang="en">Info kanal (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio Skay (SN)">
+<display-name lang="en">Radio Skay (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="BN Music (SN)">
+<display-name lang="en">BN Music (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Radio (SN)">
+<display-name lang="en">Pink Radio (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Arena Premium 2 (SN)">
+<display-name lang="en">Arena Premium 2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TOP TV HD (SN)">
+<display-name lang="en">TOP TV HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTV 1 (SN)">
+<display-name lang="en">RTV 1 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTV 2 (SN)">
+<display-name lang="en">RTV 2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Hayat Folk Box (SN)">
+<display-name lang="en">Hayat Folk Box (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Hayat Music Box (SN)">
+<display-name lang="en">Hayat Music Box (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="HAYAT HD (SN)">
+<display-name lang="en">HAYAT HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="HAYATOVCI (SN)">
+<display-name lang="en">HAYATOVCI (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="DEXY TV (SN)">
+<display-name lang="en">DEXY TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Western (SN)">
+<display-name lang="en">Pink Western (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTV 1 (SN)">
+<display-name lang="en">RTV 1 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="KCN JAGODINA (SN)">
+<display-name lang="en">KCN JAGODINA (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV DISKOS (SN)">
+<display-name lang="en">TV DISKOS (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV PALMA PLUS (SN)">
+<display-name lang="en">TV PALMA PLUS (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Insajder TV (SN)">
+<display-name lang="en">Insajder TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="KCN 3 (SN)">
+<display-name lang="en">KCN 3 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="ULTRA PULS TV (SN)">
+<display-name lang="en">ULTRA PULS TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Elita Live 1 (SN)">
+<display-name lang="en">Elita Live 1 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Trace urban (SN)">
+<display-name lang="en">Trace urban (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio S4 (SN)">
+<display-name lang="en">Radio S4 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="HBO HD (SN)">
+<display-name lang="en">HBO HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Info 24 Plus (SN)">
+<display-name lang="en">Info 24 Plus (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Brazzers TV (SN)">
+<display-name lang="en">Brazzers TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Easy (SN)">
+<display-name lang="en">RadioS Easy (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Slovo Ljubve (SN)">
+<display-name lang="en">Slovo Ljubve (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Private (SN)">
+<display-name lang="en">Private (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Gym (SN)">
+<display-name lang="en">RadioS Gym (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Hustler (SN)">
+<display-name lang="en">Hustler (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio Pletenica (SN)">
+<display-name lang="en">Radio Pletenica (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV PARTIZAN HD (SN)">
+<display-name lang="en">TV PARTIZAN HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV KANAL 25 (SN)">
+<display-name lang="en">TV KANAL 25 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="STUDIO B HD (SN)">
+<display-name lang="en">STUDIO B HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Comedy (SN)">
+<display-name lang="en">Pink Comedy (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="EroXXX (SN)">
+<display-name lang="en">EroXXX (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Crime &amp; Mystery (SN)">
+<display-name lang="en">Pink Crime &amp; Mystery (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Erox (SN)">
+<display-name lang="en">Erox (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Star HD (SN)">
+<display-name lang="en">Star HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Star Crime HD (SN)">
+<display-name lang="en">Star Crime HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="VH Classic (SN)">
+<display-name lang="en">VH Classic (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="HRT 2 (SN)">
+<display-name lang="en">HRT 2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Zelena TV Zdravlje (SN)">
+<display-name lang="en">Zelena TV Zdravlje (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Viasat Nature (SN)">
+<display-name lang="en">Viasat Nature (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Tracesport (SN)">
+<display-name lang="en">Tracesport (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="MTV 00s (SN)">
+<display-name lang="en">MTV 00s (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="AXN Spin (SN)">
+<display-name lang="en">AXN Spin (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Una TV (SN)">
+<display-name lang="en">Una TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Agro HD (SN)">
+<display-name lang="en">Agro HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="360TuneBox (SN)">
+<display-name lang="en">360TuneBox (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="AXN (SN)">
+<display-name lang="en">AXN (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Dorcel XXX HD (SN)">
+<display-name lang="en">Dorcel XXX HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="AMC (SN)">
+<display-name lang="en">AMC (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 8 HD (SN)">
+<display-name lang="en">Arena Sport 8 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Eko vizija HD (SN)">
+<display-name lang="en">Eko vizija HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="B1 (SN)">
+<display-name lang="en">B1 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="National Geographic Wild HD (SN)">
+<display-name lang="en">National Geographic Wild HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 9 HD (SN)">
+<display-name lang="en">Arena Sport 9 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="FilmBox Stars (SN)">
+<display-name lang="en">FilmBox Stars (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Modern Classic (SN)">
+<display-name lang="en">RadioS Modern Classic (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="FilmBox Extra HD (SN)">
+<display-name lang="en">FilmBox Extra HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Fast&amp;FunBox HD (SN)">
+<display-name lang="en">Fast&amp;FunBox HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Sport Urban (SN)">
+<display-name lang="en">RadioS Sport Urban (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Jazz (SN)">
+<display-name lang="en">RadioS Jazz (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Classic (SN)">
+<display-name lang="en">RadioS Classic (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Filmbox Premium HD (SN)">
+<display-name lang="en">Filmbox Premium HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Elita Live 2 (SN)">
+<display-name lang="en">Elita Live 2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Elita Live 3 (SN)">
+<display-name lang="en">Elita Live 3 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="NICK_JR. (SN)">
+<display-name lang="en">NICK_JR. (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RT DOC HD (SN)">
+<display-name lang="en">RT DOC HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RUSSIA TODAY (SN)">
+<display-name lang="en">RUSSIA TODAY (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="CGTN (SN)">
+<display-name lang="en">CGTN (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Action (SN)">
+<display-name lang="en">Pink Action (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Folk (SN)">
+<display-name lang="en">Pink Folk (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio S2 (SN)">
+<display-name lang="en">Radio S2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Koreni (SN)">
+<display-name lang="en">Koreni (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio Studio B (SN)">
+<display-name lang="en">Radio Studio B (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TDI radio (SN)">
+<display-name lang="en">TDI radio (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="WTF Radio (SN)">
+<display-name lang="en">WTF Radio (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="PINK&amp;ROLL (SN)">
+<display-name lang="en">PINK&amp;ROLL (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="PINK BH (SN)">
+<display-name lang="en">PINK BH (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Movies (SN)">
+<display-name lang="en">Pink Movies (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Music (SN)">
+<display-name lang="en">Pink Music (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="NOVOSADSKA TV (SN)">
+<display-name lang="en">NOVOSADSKA TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Serije (SN)">
+<display-name lang="en">Pink Serije (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Freedom (SN)">
+<display-name lang="en">Freedom (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="FTV (SN)">
+<display-name lang="en">FTV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTV PODRINJE (SN)">
+<display-name lang="en">RTV PODRINJE (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV VALJEVO PLUS (SN)">
+<display-name lang="en">TV VALJEVO PLUS (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="V5 (SN)">
+<display-name lang="en">V5 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Drive (SN)">
+<display-name lang="en">Drive (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Toxic Rap HD (SN)">
+<display-name lang="en">Toxic Rap HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV MAG (SN)">
+<display-name lang="en">TV MAG (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="PINK LOL (SN)">
+<display-name lang="en">PINK LOL (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV GEM (SN)">
+<display-name lang="en">TV GEM (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Euronews Serbia HD (SN)">
+<display-name lang="en">Euronews Serbia HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Cocktail Lounge (SN)">
+<display-name lang="en">Cocktail Lounge (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="REALITY KINGS (SN)">
+<display-name lang="en">REALITY KINGS (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Prima (SN)">
+<display-name lang="en">TV Prima (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="KA TV (SN)">
+<display-name lang="en">KA TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Erotic 7 (SN)">
+<display-name lang="en">Erotic 7 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Erotic 6 (SN)">
+<display-name lang="en">Erotic 6 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Erotic 8 (SN)">
+<display-name lang="en">Erotic 8 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Cafe (SN)">
+<display-name lang="en">RadioS Cafe (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Rock (SN)">
+<display-name lang="en">RadioS Rock (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Cinemax HD (SN)">
+<display-name lang="en">Cinemax HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Kuvo TV (SN)">
+<display-name lang="en">Kuvo TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Hip-Hop/R&amp;B (SN)">
+<display-name lang="en">Hip-Hop/R&amp;B (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Classical Calm (SN)">
+<display-name lang="en">Classical Calm (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Chansons (SN)">
+<display-name lang="en">Chansons (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="La Vita e Bella (SN)">
+<display-name lang="en">La Vita e Bella (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Rock of Ages (SN)">
+<display-name lang="en">Rock of Ages (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="OMG (SN)">
+<display-name lang="en">OMG (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Cartoonito (SN)">
+<display-name lang="en">Cartoonito (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Alternative (SN)">
+<display-name lang="en">Alternative (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="OBN (SN)">
+<display-name lang="en">OBN (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTL Croatia World (SN)">
+<display-name lang="en">RTL Croatia World (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Prva kick (SN)">
+<display-name lang="en">Prva kick (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Prva life (SN)">
+<display-name lang="en">Prva life (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Prva files (SN)">
+<display-name lang="en">Prva files (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Bass, Breaks and Beats (SN)">
+<display-name lang="en">Bass, Breaks and Beats (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Zabava (SN)">
+<display-name lang="en">Pink Zabava (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Style (SN)">
+<display-name lang="en">Pink Style (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Kuvar (SN)">
+<display-name lang="en">Pink Kuvar (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Lounge (SN)">
+<display-name lang="en">RadioS Lounge (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV GM Plus (SN)">
+<display-name lang="en">TV GM Plus (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV PRIBOJ (SN)">
+<display-name lang="en">TV PRIBOJ (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Chill (SN)">
+<display-name lang="en">RadioS Chill (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Belarus 24 HD (SN)">
+<display-name lang="en">Belarus 24 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio S3 (SN)">
+<display-name lang="en">Radio S3 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Dankos Plus TV (SN)">
+<display-name lang="en">Dankos Plus TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS 2000-e (SN)">
+<display-name lang="en">RadioS 2000-e (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV JEFIMIJA (SN)">
+<display-name lang="en">TV JEFIMIJA (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTRS (SN)">
+<display-name lang="en">RTRS (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Vranje HD (SN)">
+<display-name lang="en">TV Vranje HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Zvezda TV HD (SN)">
+<display-name lang="en">Zvezda TV HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 7 HD (SN)">
+<display-name lang="en">Arena Sport 7 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Arena Sport 6 HD (SN)">
+<display-name lang="en">Arena Sport 6 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV BALKAN (SN)">
+<display-name lang="en">TV BALKAN (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV YU Eco HD (SN)">
+<display-name lang="en">TV YU Eco HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="KLASIK (SN)">
+<display-name lang="en">KLASIK (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Super D+ (SN)">
+<display-name lang="en">Super D+ (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Show (SN)">
+<display-name lang="en">Pink Show (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV GM Plus (SN)">
+<display-name lang="en">TV GM Plus (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="K:CN 1 (SN)">
+<display-name lang="en">K:CN 1 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RADIO S TV (SN)">
+<display-name lang="en">RADIO S TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="SuperSat HD (SN)">
+<display-name lang="en">SuperSat HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Total Hits UK (SN)">
+<display-name lang="en">Total Hits UK (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio S Kids (SN)">
+<display-name lang="en">Radio S Kids (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Starogradski (SN)">
+<display-name lang="en">RadioS Starogradski (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Info 24 (SN)">
+<display-name lang="en">TV Info 24 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Film (SN)">
+<display-name lang="en">Pink Film (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Playboy TV HD (SN)">
+<display-name lang="en">Playboy TV HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Arena Premium 1 (SN)">
+<display-name lang="en">Arena Premium 1 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Euro Cinema 4 HD (SN)">
+<display-name lang="en">Euro Cinema 4 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="ID XTRA HD (SN)">
+<display-name lang="en">ID XTRA HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV AS (SN)">
+<display-name lang="en">TV AS (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio Rokenroler (SN)">
+<display-name lang="en">Radio Rokenroler (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="PINK HA HA (SN)">
+<display-name lang="en">PINK HA HA (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="KCN ZAPAD (SN)">
+<display-name lang="en">KCN ZAPAD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Nais TV HD (SN)">
+<display-name lang="en">Nais TV HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="KCN SEVER (SN)">
+<display-name lang="en">KCN SEVER (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Classic R'n'B &amp; Soul (SN)">
+<display-name lang="en">Classic R'n'B &amp; Soul (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="NICKELODEON (SN)">
+<display-name lang="en">NICKELODEON (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Superstar 2 HD (SN)">
+<display-name lang="en">Superstar 2 HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Travel HD (SN)">
+<display-name lang="en">Travel HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="ANIMAL PLANET HD (SN)">
+<display-name lang="en">ANIMAL PLANET HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Star Movies HD (SN)">
+<display-name lang="en">Star Movies HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="24 KITCHEN (SN)">
+<display-name lang="en">24 KITCHEN (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Star Life HD (SN)">
+<display-name lang="en">Star Life HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Narodni (SN)">
+<display-name lang="en">RadioS Narodni (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="HAYAT 2 (SN)">
+<display-name lang="en">HAYAT 2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Pop &amp; Rock (SN)">
+<display-name lang="en">RadioS Pop &amp; Rock (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Premier League TV HD (SN)">
+<display-name lang="en">Premier League TV HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Arena Esport HD (SN)">
+<display-name lang="en">Arena Esport HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="KCN ISTOK (SN)">
+<display-name lang="en">KCN ISTOK (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Pomoravlje (SN)">
+<display-name lang="en">TV Pomoravlje (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Informer TV (SN)">
+<display-name lang="en">Informer TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Skymusic HD (SN)">
+<display-name lang="en">TV Skymusic HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TDI radio HD (SN)">
+<display-name lang="en">TDI radio HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio Karolina HD (SN)">
+<display-name lang="en">Radio Karolina HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Hit FM radio HD (SN)">
+<display-name lang="en">Hit FM radio HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="FilmBox Arthouse (SN)">
+<display-name lang="en">FilmBox Arthouse (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="France 24 (SN)">
+<display-name lang="en">France 24 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Food Network HD (SN)">
+<display-name lang="en">Food Network HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTL 2 (SN)">
+<display-name lang="en">RTL 2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Dance (SN)">
+<display-name lang="en">RadioS Dance (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="H2 (SN)">
+<display-name lang="en">H2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Gametoon (SN)">
+<display-name lang="en">Gametoon (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV Niska (SN)">
+<display-name lang="en">TV Niska (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Groove (Disco &amp; Funk) (SN)">
+<display-name lang="en">Groove (Disco &amp; Funk) (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="2000s (SN)">
+<display-name lang="en">2000s (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="History HD (SN)">
+<display-name lang="en">History HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Xtra (SN)">
+<display-name lang="en">RadioS Xtra (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Balkan Retro Hits (SN)">
+<display-name lang="en">Balkan Retro Hits (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Folk Stars (SN)">
+<display-name lang="en">RadioS Folk Stars (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS Gold (SN)">
+<display-name lang="en">RadioS Gold (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Fox News (SN)">
+<display-name lang="en">Fox News (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Blic TV HD (SN)">
+<display-name lang="en">Blic TV HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV NOVI PAZAR (SN)">
+<display-name lang="en">TV NOVI PAZAR (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio S1 (SN)">
+<display-name lang="en">Radio S1 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Play Radio (SN)">
+<display-name lang="en">Play Radio (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV HYPE 2 (SN)">
+<display-name lang="en">TV HYPE 2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTV Fortuna (SN)">
+<display-name lang="en">RTV Fortuna (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio Karolina (SN)">
+<display-name lang="en">Radio Karolina (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio JAT (SN)">
+<display-name lang="en">Radio JAT (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RED Radio (SN)">
+<display-name lang="en">RED Radio (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio Naxi (SN)">
+<display-name lang="en">Radio Naxi (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Radio Novosti (SN)">
+<display-name lang="en">Radio Novosti (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Toxic Folk HD (SN)">
+<display-name lang="en">Toxic Folk HD (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV HOMOLJE (SN)">
+<display-name lang="en">TV HOMOLJE (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Tanjug TV (SN)">
+<display-name lang="en">Tanjug TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="VRANJSKA PLUS (SN)">
+<display-name lang="en">VRANJSKA PLUS (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="NICKELODEON (SN)">
+<display-name lang="en">NICKELODEON (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RadioS 80-e (SN)">
+<display-name lang="en">RadioS 80-e (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTS Klasika (SN)">
+<display-name lang="en">RTS Klasika (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="All day party (SN)">
+<display-name lang="en">All day party (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Lola radio (SN)">
+<display-name lang="en">Lola radio (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Trance (SN)">
+<display-name lang="en">Trance (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV K 9 (SN)">
+<display-name lang="en">TV K 9 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV PETROVEC (SN)">
+<display-name lang="en">TV PETROVEC (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV DELTA &amp; MOZAIK (SN)">
+<display-name lang="en">TV DELTA &amp; MOZAIK (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV MOST (SN)">
+<display-name lang="en">TV MOST (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="KCN 2 (SN)">
+<display-name lang="en">KCN 2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="PINK M (SN)">
+<display-name lang="en">PINK M (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV RAS (SN)">
+<display-name lang="en">TV RAS (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV KCN K (SN)">
+<display-name lang="en">TV KCN K (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTL Kockica (SN)">
+<display-name lang="en">RTL Kockica (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Blue Hustler (SN)">
+<display-name lang="en">Blue Hustler (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTS ZIVOT (SN)">
+<display-name lang="en">RTS ZIVOT (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Desire (SN)">
+<display-name lang="en">Desire (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Slobodna televizija (SN)">
+<display-name lang="en">Slobodna televizija (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Face TV (SN)">
+<display-name lang="en">Face TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Disney Junior (SN)">
+<display-name lang="en">Disney Junior (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Fight Network (SN)">
+<display-name lang="en">Fight Network (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Discovery (SN)">
+<display-name lang="en">Discovery (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Pink Family (SN)">
+<display-name lang="en">Pink Family (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="DISNEY (SN)">
+<display-name lang="en">DISNEY (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="BANG U (SN)">
+<display-name lang="en">BANG U (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="BABES TV (SN)">
+<display-name lang="en">BABES TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Erotic (SN)">
+<display-name lang="en">Erotic (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Erotic 3 (SN)">
+<display-name lang="en">Erotic 3 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Erotic 2 (SN)">
+<display-name lang="en">Erotic 2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Erotic 5 (SN)">
+<display-name lang="en">Erotic 5 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Erotic 4 (SN)">
+<display-name lang="en">Erotic 4 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Serbian Rock (SN)">
+<display-name lang="en">Serbian Rock (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTS TREZOR (SN)">
+<display-name lang="en">RTS TREZOR (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTS POLETARAC (SN)">
+<display-name lang="en">RTS POLETARAC (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTS MUZIKA (SN)">
+<display-name lang="en">RTS MUZIKA (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTS KOLO (SN)">
+<display-name lang="en">RTS KOLO (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="RTS DRAMA (SN)">
+<display-name lang="en">RTS DRAMA (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Espreso TV (SN)">
+<display-name lang="en">Espreso TV (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Rock'n'Roll (SN)">
+<display-name lang="en">Rock'n'Roll (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Deep Blues (SN)">
+<display-name lang="en">Deep Blues (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="TV CENTAR (SN)">
+<display-name lang="en">TV CENTAR (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Arena 1x2 (SN)">
+<display-name lang="en">Arena 1x2 (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Jazz Classics (SN)">
+<display-name lang="en">Jazz Classics (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="House (SN)">
+<display-name lang="en">House (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Cool Jazz (SN)">
+<display-name lang="en">Cool Jazz (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>
+
+<channel id="Chillout (SN)">
+<display-name lang="en">Chillout (SN)</display-name>
+<EPG-Provider>supernova_rs</EPG-Provider>
+</channel>	
+
+</tv>
